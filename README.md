@@ -1,1 +1,1 @@
-# LinkedGuard-Safeguarding-LinkedIn-Privacy-by-Identifying-Authentic-Companies
+## LinkedGuard-Safeguarding-LinkedIn-Privacy-by-Identifying-Authentic-Companies
